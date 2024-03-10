@@ -1,0 +1,15 @@
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/bin/Debug/net8.0/tempCodeRunnerFile
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/bin/Debug/net8.0/tempCodeRunnerFile.deps.json
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/bin/Debug/net8.0/tempCodeRunnerFile.runtimeconfig.json
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/bin/Debug/net8.0/tempCodeRunnerFile.dll
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/bin/Debug/net8.0/tempCodeRunnerFile.pdb
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/tempCodeRunnerFile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/tempCodeRunnerFile.AssemblyInfoInputs.cache
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/tempCodeRunnerFile.AssemblyInfo.cs
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/tempCodeRunnerFile.csproj.CoreCompileInputs.cache
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/tempCodeRunnerFile.sourcelink.json
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/tempCodeRunnerFile.dll
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/refint/tempCodeRunnerFile.dll
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/tempCodeRunnerFile.pdb
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/tempCodeRunnerFile.genruntimeconfig.cache
+/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/Debug/net8.0/ref/tempCodeRunnerFile.dll

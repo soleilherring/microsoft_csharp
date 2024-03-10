@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/soleilherring/Microsoft_C#/CsharpProjects/TestProject/TestProject.csproj",
+      "projectUniqueName": "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "/Users/soleilherring/Microsoft_C#/CsharpProjects/TestProject/TestProject.csproj",
+      "projectPath": "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/TestProject.csproj",
       "packagesPath": "/Users/soleilherring/.nuget/packages/",
-      "outputPath": "/Users/soleilherring/Microsoft_C#/CsharpProjects/TestProject/obj/",
+      "outputPath": "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/soleilherring/.nuget/NuGet/NuGet.Config"

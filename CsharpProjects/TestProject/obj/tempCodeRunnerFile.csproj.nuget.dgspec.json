@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/TestProject.csproj": {}
+    "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/tempCodeRunnerFile.csproj": {}
   },
   "projects": {
-    "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/TestProject.csproj": {
+    "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/tempCodeRunnerFile.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/TestProject.csproj",
+        "projectUniqueName": "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/tempCodeRunnerFile.csproj",
+        "projectName": "tempCodeRunnerFile",
+        "projectPath": "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/tempCodeRunnerFile.csproj",
         "packagesPath": "/Users/soleilherring/.nuget/packages/",
         "outputPath": "/Users/soleilherring/microsoft_csharp/CsharpProjects/TestProject/obj/",
         "projectStyle": "PackageReference",
